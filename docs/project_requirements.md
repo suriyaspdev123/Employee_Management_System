@@ -5,7 +5,7 @@ Objective:
 To develop a cloud-native employee management application and deploy it securely using AWS, Docker, Jenkins, Terraform, Kubernetes, and DevSecOps tools.
 
 Users:
-Admin
+Admin, 
 HR
 
 Features
