@@ -11,15 +11,15 @@ HR
 Features
 
 Authentication:
-Login
+Login, 
 Logout
 
 Employee Management:
-Add Employee
-Update Employee
-Delete Employee
+Add Employee, 
+Update Employee, 
+Delete Employee, 
 Search Employee
 
 Dashboard:
-Employee Count
+Employee Count, 
 Department Count
